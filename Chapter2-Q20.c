@@ -1,11 +1,11 @@
 /* (Diameter, Circumference and Area of a Circle) Write a program that reads in the radius
-of a circle and prints the circle’s diameter, circumference and area. Use the constant value 3.14159
-for ð. Perform each of these calculations inside the printf statement(s) and use the conversion specifier
+of a circle and prints the circleâ€™s diameter, circumference and area. Use the constant value 3.14159
+for Ã°. Perform each of these calculations inside the printf statement(s) and use the conversion specifier
 %f. [Note: In this chapter, we have discussed only integer constants and variables. In Chapter 3
-we’ll discuss floating-point numbers, i.e., values that can have decimal points.] 
+weâ€™ll discuss floating-point numbers, i.e., values that can have decimal points.] 
 */
 #include <stdio.h>
-///Bir hata var anlamadým..
+///Bir hata var anlamadÃ½m..
 
 int main ()
 //Beginning of the main function
