@@ -1,3 +1,7 @@
+/*2.25 Print your initials in block letters down the page. Construct each block letter out of the letter
+it represents as shown below.
+*/ 
+// ıt s not complated
 #include <stdio.h>
 int main ()
 {
@@ -9,5 +13,5 @@ int main ()
 	printf( "AAAAAAAAAAAAAAAAA\n" );
 	
 	
-	//printf( "I		�" );
+	//printf( "I		ý" );
 }
