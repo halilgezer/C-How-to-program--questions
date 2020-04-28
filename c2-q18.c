@@ -1,6 +1,6 @@
 /* 2- 18 (Comparing Integers) Write a program that asks the user to enter two integers, obtains the
-numbers from the user, then prints the larger number followed by the words “is larger.” If the
-numbers are equal, print the message “These numbers are equal.” Use only the single-selection
+numbers from the user, then prints the larger number followed by the words â€œis larger.â€ If the
+numbers are equal, print the message â€œThese numbers are equal.â€ Use only the single-selection
 form of the if statement you learned in this chapter. 
 
 */
