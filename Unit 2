@@ -1,1 +1,24 @@
+/*2.16 (Arithmetic) Write a program that asks the user to enter two numbers, obtains them from
+the user and prints their sum, product, difference, quotient and remainder. */
 
+#include <stdio.h>
+int main()
+{  // Begin of the main function
+	int first_int ; //  we need two integers
+	int second_int ;
+	printf("Enter the first value : "); // input first integer.
+	scanf("%d",&first_int); 	// scan that integer.
+	printf("Enter the second value: ");		// input second integer.
+	scanf("%d",&second_int); 		// scan that integer
+//	printf("%d,%d", first_int , second_int);
+	int total = first_int + second_int;		//defind total 
+	int multiple = first_int * second_int;	//multiple
+	int difference = first_int - second_int;	// difference
+	int remainder = first_int % second_int;		// remainder
+	int quotient = first_int / second_int;		// print all that datas.
+	printf("The sum of these numbers is :%d\n",total);
+	printf("The multiplication of these numbers is :%d\n",multiple);
+	printf("The difference of these numbers is :%d\n",difference);
+	printf("The remainder of these numbers is :%d\n", remainder);
+	printf("The quotient of these numbers is :%d\n",quotient);
+}	// End of the main function.
