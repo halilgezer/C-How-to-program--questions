@@ -1,5 +1,5 @@
 /*
-5.19 (Parking Charges) Write a function that displays a solid square of asterisks whose side is
+5.19 (Parking Charges) Write a function that  displays a solid square of asterisks whose side is
 specified in integer parameter side. For example, if side is 4, the function displays:
 ****
 ****
