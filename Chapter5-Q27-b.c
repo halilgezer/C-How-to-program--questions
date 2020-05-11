@@ -1,6 +1,6 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.27 (Prime Numbers) An integer is said to be prime if it’s divisible by only 1 and itself. For example,
+5.27 (Prime Numbers) An  integer is said to be prime if itâ€™s divisible by only 1 and itself. For example,
 2, 3, 5 and 7 are prime, but 4, 6, 8 and 9 are not.
 a) Write a function that determines if a number is prime.
 b) Use this function in a program that determines and prints all the prime numbers between
