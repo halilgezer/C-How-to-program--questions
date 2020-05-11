@@ -1,8 +1,8 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.23 (Time in Seconds) Write a function that takes the time as three integer arguments (for
-hours, minutes, and seconds) and returns the number of seconds since the last time the clock ìstruck
-12.î Use this function to calculate the amount of time in seconds between two times, both of which
+5.23 (Time in Seconds) Write a function that takes  the time as three integer arguments (for
+hours, minutes, and seconds) and returns the number of seconds since the last time the clock ‚Äústruck
+12.‚Äù Use this function to calculate the amount of time in seconds between two times, both of which
 are within one 12-hour cycle of the clock.
 */
 
