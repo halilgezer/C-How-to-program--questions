@@ -1,6 +1,6 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.22 (Separating Digits) Write program segments that accomplish each of the following:
+5.22 (Separating Digits) Write  program segments that accomplish each of the following:
 a) Calculate the integer part of the quotient when integer a is divided by integer b.
 b) Calculate the integer remainder when integer a is divided by integer b.
 c) Use the program pieces developed in a) and b) to write a function that inputs an integer
