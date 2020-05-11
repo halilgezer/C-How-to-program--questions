@@ -1,7 +1,7 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.51 (Computer-Assisted Instruction: Reducing Student Fatigue) One problem in CAI environments
-is student fatigue. This can be reduced by varying the computer’s responses to hold the student’s
+5.51 (Computer-Assisted Instruction: Reducing Student Fatigue)  One problem in CAI environments
+is student fatigue. This can be reduced by varying the computerâ€™s responses to hold the studentâ€™s
 attention. Modify the program of Exercise 5.50 so that various comments are displayed for
 each answer as follows:
 Possible responses to a correct answer:
