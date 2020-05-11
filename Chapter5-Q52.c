@@ -1,9 +1,9 @@
 /*
 Author is : Ibrahim Halil GEZER
 5.52 (Computer-Assisted Instruction: Monitoring Student Performance) More sophisticated
-computer-assisted instruction systems monitor the student’s performance over a period of time. The
-decision to begin a new topic is often based on the student’s success with previous topics. Modify
-the program of Exercise 5.51 to count the number of correct and incorrect responses typed by the
+computer-assisted instruction systems monitor the studentâ€™s performance over a period of time. The
+decision to begin a new topic is often based on the studentâ€™s success with previous topics. Modify
+the program of Exercise 5.51 to count the number of correct and incorrect  responses typed by the
 student. After the student types 10 answers, your program should calculate the percentage that are
 correct. If the percentage is lower than 75%, display "Please ask your teacher for extra help.",
 then reset the program so another student can try it. If the percentage is 75% or higher, display
