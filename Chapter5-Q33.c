@@ -4,7 +4,7 @@ Author is : Ibrahim Halil GEZER
 of guesses the player makes. If the number is 10 or fewer, print Either you know the secret or
 you got lucky! If the player guesses the number in 10 tries, then print Ahah! You know the secret!
 If the player makes more than 10 guesses, then print You should be able to do better! Why should
-it take no more than 10 guesses? Well, with each ìgood guessî the player should be able to eliminate
+it take no more than 10 guesses? Well, with each ‚Äúgood guess‚Äù the player should be able to eliminate
 half of the numbers. Now show why any number 1 to 1000 can be guessed in 10 or fewer tries.
 */
 #include <stdio.h>
@@ -60,7 +60,7 @@ void numberguess  ( void ) {
 	printf ( "\nWould you like to play again (y or n)? ") ;
 	scanf ("%s", &again) ; 
 	
-	if (again == 'y' || again == 'yes' || again == 'Yes' || again == 'YES' )  {
+	if (again == 'y' ||  again == 'Y' )  {
 		printf ("\n");
 		numberguess () ;
 		}
