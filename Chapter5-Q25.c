@@ -22,7 +22,7 @@ int main ( void ) {
 	return 0 ;
 } 
 
-float smallest ( float a, float b, float c ) {
+float smallest ( float a, float b, float c ) { 
 	float smal = a ;
 	if ( b < smal ) 
 		smal = b ;
