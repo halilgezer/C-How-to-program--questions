@@ -1,11 +1,11 @@
 /*
 Author is : Ibrahim Halil GEZER
 5.34 (Recursive Exponentiation) Write a recursive function power( base, exponent ) that when
-invoked returns
+invoked returns 
 base** exponent
 For example, power( 3, 4 ) = 3 * 3 * 3 * 3. Assume that exponent is an integer greater than or equal
 to 1. Hint: The recursion step would use the relationship 
-base** exponent = base * base ** exponent–1
+base** exponent = base * base ** exponentâ€“1
 and the terminating condition occurs when exponent is equal to 1 because
 base** 1 = base 
 
