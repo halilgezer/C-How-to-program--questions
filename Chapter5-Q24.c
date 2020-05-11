@@ -1,6 +1,6 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.24 (Temperature Conversions) Implement the following integer functions:
+5.24 (Temperature Conversions) Implement the following integer  functions:
 a) Function celsius returns the Celsius equivalent of a Fahrenheit temperature.
 b) Function fahrenheit returns the Fahrenheit equivalent of a Celsius temperature.
 c) Use these functions to write a program that prints charts showing the Fahrenheit equivalents
