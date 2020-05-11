@@ -23,7 +23,7 @@ int main ( void ) {
  printf( "log(%f) = %.1f\n", 7.389056, log( 7.389056 ) );
 
  /* calculates and outputs the logarithm (base 10) */
- printf( "log10(%.1f) = %.1f\n", 1.0, log10( 1.0 ) );
+ printf( "log10(%.1f) = %.1f\n", 1.0, log10( 1.0 ) ); 
  printf( "log10(%.1f) = %.1f\n", 10.0, log10( 10.0 ) );
  printf( "log10(%.1f) = %.1f\n", 100.0, log10( 100.0 ) );
 
