@@ -1,8 +1,8 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.20 (Displaying a Square of Any Character) Modify the function created in Exercise 5.19 to
+5.20 (Displaying a Square of Any Character)  Modify the function created in Exercise 5.19 to
 form the square out of whatever character is contained in character parameter fillCharacter. Thus
-if side is 5 and fillCharacter is ì#î then this function should print:
+if side is 5 and fillCharacter is ‚Äú#‚Äù then this function should print:
 #####
 #####
 #####
