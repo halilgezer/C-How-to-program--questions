@@ -5,7 +5,7 @@ integer that evenly divides each of the two numbers. Write function gcd that ret
 common divisor of two integers.
 */
 
-#include <stdio.h>
+#include <stdio.h> 
 
 int gcd (int a , int b  ) ;
 
