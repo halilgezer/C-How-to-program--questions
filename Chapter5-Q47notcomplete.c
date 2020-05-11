@@ -1,6 +1,5 @@
 /* 
-Author is : Andrew Laing
-Email     : parisianconnections@gmail.com
+
 5.47 (Craps Game Modification) Modify the craps program of Fig. 5.10 to allow wagering.
 Package as a function the portion of the program that runs one game of craps. Initialize variable
 bankBalance to 1000 dollars. Prompt the player to enter a wager. Use a while loop to check that
@@ -8,7 +7,7 @@ wager is less than or equal to bankBalance, and if not, prompt the user to reent
 wager is entered. After a correct wager is entered, run one game of craps. If the player wins, increase
 bankBalance by wager and print the new bankBalance. If the player loses, decrease bankBalance by
 wager, print the new bankBalance, check if bankBalance has become zero, and if so print the message,
-"Sorry. You busted!" As the game progresses, print various messages to create some ìchatterî
+"Sorry. You busted!" As the game progresses, print various messages to create some ‚Äúchatter‚Äù
 such as, "Oh, you're going for broke, huh?" or "Aw cmon, take a chance!" or "You're up big. Now's
 the time to cash in your chips!"
 */
