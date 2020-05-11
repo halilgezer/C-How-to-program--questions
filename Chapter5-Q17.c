@@ -6,7 +6,7 @@ integer is a multiple of the first. The function should take two integer argumen
 that inputs a series of pairs of integers.
 */
 
-#include <stdio.h>
+#include <stdio.h> 
 
 int multiple  ( int a , int b) ; // function prototype
 
