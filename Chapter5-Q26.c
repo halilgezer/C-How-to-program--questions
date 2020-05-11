@@ -1,6 +1,6 @@
 /* 
 Author is : Ibrahim Halil GEZER
-5.26 (Perfect Numbers) An integer number is said to be a perfect number if its factors, including
+5.26 (Perfect Numbers) An integer number is  said to be a perfect number if its factors, including
 1 (but not the number itself), sum to the number. For example, 6 is a perfect number because 6 =
 1 + 2 + 3. Write a function perfect that determines if parameter number is a perfect number. Use
 this function in a program that determines and prints all the perfect numbers between 1 and 1000.
