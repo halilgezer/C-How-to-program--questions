@@ -7,7 +7,7 @@ flip that takes no arguments and returns 0 for tails and 1 for heads. [Note: If 
 realistically simulates the coin tossing, then each side of the coin should appear approximately half
 the time for a total of approximately 50 heads and 50 tails.]
 */
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdlib.h>
 #include <time.h>
 
