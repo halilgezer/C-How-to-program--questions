@@ -1,6 +1,6 @@
 /*
 Author is : Ibrahim Halil GEZER
-5.32 (Guess the Number) Write a C program that plays the game of ìguess the numberî as follows:
+5.32 (Guess the Number) Write a C program that plays the game of ‚Äúguess the number‚Äù as follows:
 Your program chooses the number to be guessed by selecting an integer at random in the range
 1 to 1000. The program then types:
 
@@ -15,14 +15,14 @@ Would you like to play again (y or n)?
 2. Too low. Try again.
 3. Too high. Try again.
 
-If the playerís guess is incorrect, your program should loop until the player finally gets the number
-right. Your program should keep telling the player Too high or Too low to help the player ìzero inî
+If the player‚Äôs guess is incorrect, your program should loop until the player finally gets the number
+right. Your program should keep telling the player Too high or Too low to help the player ‚Äúzero in‚Äù
 on the correct answer. [Note: The searching technique employed in this problem is called binary
-search. Weíll say more about this in the next problem.]
+search. We‚Äôll say more about this in the next problem.]
 */
 
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include <time.h>
 
 void numberguess  ( void ) ;
