@@ -1,5 +1,5 @@
 /*
-Author is : Ibrahim Halil GEZER
+Author is : Ibrahim Halil GEZER 
 5.53 (Computer-Assisted Instruction: Difficulty Levels) Exercise 5.50 through Exercise 5.52 developed
 a computer-assisted instruction program to help teach an elementary school student multiplication.
 Modify the program to allow the user to enter a difficulty level. At a difficulty level of 1,
