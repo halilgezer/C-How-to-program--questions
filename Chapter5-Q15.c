@@ -18,7 +18,7 @@ int main ( void )
 {
 	 hypotenuse ( a, b )  ;
 		
-} // end function main 
+} // end function main  
 
 double hypotenuse (double a, double b ) { //defind function 
 
