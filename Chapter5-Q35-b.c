@@ -1,7 +1,7 @@
 /* 
 Author is : Ibrahim Halil GEZER
 5.35 (Fibonacci) The Fibonacci series
-0, 1, 1, 2, 3, 5, 8, 13, 21, …
+0, 1, 1, 2, 3, 5, 8, 13, 21, â€¦
 begins with the terms 0 and 1 and has the property that each succeeding term is the sum of the two
 preceding terms. a) Write a nonrecursive function fibonacci(n) that calculates the nth Fibonacci
 number. b) Determine the largest Fibonacci number that can be printed on your system. Modify
@@ -23,7 +23,7 @@ int main ( void ) {
 double fibonacci ( int a  ) {
 	double b , c ;
 	int  i ;
-	b = 0 ;
+	b = 0 ; 
 	c = 1 ;
 	int result  = 0 ;
 	
