@@ -62,7 +62,7 @@ void numberguess  ( void ) {
 	printf ( "Would you like to play again (y or n)? ") ;
 	scanf ("%s", &again) ; 
 	
-	if (again == 'y' || again == 'yes' || again == 'Yes' || again == 'YES' )  {
+	if (again == 'y' || again == 'Y' )  {
 		printf ("\n");
 		numberguess () ;
 		}
