@@ -18,7 +18,7 @@ int main ( void ) {
 	
 	printf ("gcd is %d " , gcd ( num1 , num2 ) )  ;
 	return 0 ;
-	} // end function main 
+	} // end function main  
 
 int gcd ( int x, int y ) {
 	
