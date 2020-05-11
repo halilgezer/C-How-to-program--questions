@@ -23,7 +23,7 @@ int reverse ( int a ) {
 	int rev = 0 ; 
 	int number = a ;
 	 
-	while (number != 0 ) {
+	while (number != 0 ) { 
 	    rev= (rev * 10) + (number % 10);
 	    number /= 10;
 	}
